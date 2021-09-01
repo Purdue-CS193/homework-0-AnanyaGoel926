@@ -59,3 +59,6 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 | Total   | 10      |
 
 # Ananya's First CS193 Homework
+- CS193 helps understand Github
+- Helps us learn new tricks and concepts which is useful for cs180
+- 193 is a fun class where we can collaborate on new things like learning hwo to use terminal
